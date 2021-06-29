@@ -1,0 +1,12 @@
+Package: pdfdriver
+Type: Package
+Title: Extractor of data inserted in a PDF file
+Version: 1.0.3
+Author: Felipe León Fernández
+Maintainer: Felipe León Fernández <felipe.leon.fernandez@alumnos.upm.es>
+Description: This package can extract XML contents previously inserted in a PDF document, convert those XML contents into a
+    dataframe, transpose a dataframe and validate the XML against the PDFDriver XSD.
+License: Public Domain Software
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
